@@ -6,7 +6,7 @@
   <a href="https://github.com/Awesome-Gtash/KazutologoBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/KazutoXLogo_bot"><img src="https://te.legra.ph/file/bf426ef1ca910801efbd3.jpg" width="600"></a></p>
+<p align="center"><a href="https://t.me/KazutoXLogo_bot"><img src="https://te.legra.ph/file/d08835117173259023c10.jpg" width="600"></a></p>
 
 <p align="center"><a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=silver&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a></p>
 
