@@ -1,4 +1,14 @@
 # Create a new config.py or rename this to config.py file in same dir and import, then extend this class.
+import json
+import os
+
+
+def get_user_list(config, key):
+    with open(f"{os.getcwd()}/Kazutologobot/{config}", "r") as json_file:
+        return json.load(json_file)[key]
+
+
+# Create a new config.py or rename this to config.py file in same dir and import, then extend this class.
 class Config(object):
     LOGGER = True
     # REQUIRED
@@ -6,12 +16,12 @@ class Config(object):
 
     API_ID = 1234567  # integer value, dont use ""
     API_HASH = "123458494"
-    TOKEN = "5096800645:AAEqiDu0tIAz6Tj5mNPP38R9AyfzEWr1SO0"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1732814103  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "DarlingPrince"
-    SUPPORT_CHAT = "ProgrammerSupport"  # Your own group for support, do not add the @
+    TOKEN = "5624569530:AAGGr94SXBngLHYP8alUKuFKHzILbn85ZgA"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = 5189767566  # If you dont know, run the bot and do /id in your private chat with it, also an integer & Dont Use ""
+    OWNER_USERNAME = "Awesome_MB" # Your Username, Don't add the @
+    SUPPORT_CHAT = "Tiger_SupportChat"  # Your own group for support, don't add the @
     JOIN_LOGGER = (
-        -1001739802989
+        -1001640096539
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
         -1001739802989
