@@ -15,18 +15,12 @@
 
 
 
-## Available on Telegram as [@OrekiXProRobot](https://t.me/Orekixprorobot)
+## Available on Telegram as [@KazutoXLogo_Bot](https://t.me/kazutoxlogo_bot)
 
 ## ✨ Deploy to Heroku ✨
 
-Click The Blue Deploy Button & Fill the vars Then Bot Runs on Heroku!
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Awesome-Gtash/OrekiRobot-2"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-## Credits
-- **[MyaavBoi](https://github.com/Awesome-Gtash) - Owner**
-- **[LovelyPrince](https://github.com/Awesome-Prince) - Special Helper**
-- **[OTAZUKI](https://github.com/Otazuki004) - Helper**
-- **[NekoRobot](https://github.com/Awesome-Prince/NekoRobot-3) - Base**
+Click The Red Deploy Button & Fill the vars Then Bot Runs on Heroku!
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Awesome-Gtash/KazutologoBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## REPO MADE BY: [@Awesome_MB](https://t.me/Awesome_MB)
 
