@@ -16,7 +16,7 @@ class Config(object):
 
     API_ID = 1234567  # integer value, dont use ""
     API_HASH = "123458494"
-    TOKEN = "5624569530:AAGGr94SXBngLHYP8alUKuFKHzILbn85ZgA"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    TOKEN = ""  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 5189767566  # If you dont know, run the bot and do /id in your private chat with it, also an integer & Dont Use ""
     OWNER_USERNAME = "Awesome_MB" # Your Username, Don't add the @
     SUPPORT_CHAT = "Tiger_SupportChat"  # Your own group for support, don't add the @
