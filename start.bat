@@ -1,4 +1,4 @@
 @echo off
-TITLE NekoRobot
-:: Enables virtual env mode and then starts Neko
-env\scripts\activate.bat && py -m NekoRobot
+TITLE Kazutologobot
+:: Enables virtual env mode and then starts Kazuto
+env\scripts\activate.bat && py -m Kazutologobot
